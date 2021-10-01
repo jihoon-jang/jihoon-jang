@@ -2,7 +2,6 @@
 
 ### 1 Day 1 Commit-ing (20.05.25~)
 
-- Blog : https://jellyinghead.tistory.com
 - Email : jigns10@gmail.com
 
 ### 주요 레포지토리
