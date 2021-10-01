@@ -1,6 +1,6 @@
 # 장지훈
 
-### 1 Day 1 Commit-ing (20.05.25~)
+### 1 Day 1 Commit-ed (20.05.25~)
 
 - Email : jigns10@gmail.com
 
