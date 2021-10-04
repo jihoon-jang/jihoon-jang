@@ -1,6 +1,6 @@
 # 장지훈
 
-### 1 Day 1 Commit-ed (20.05.25~21.01.17)
+쉬는 중~
 
 - Email : jigns10@gmail.com
 
